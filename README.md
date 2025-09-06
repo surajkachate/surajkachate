@@ -31,9 +31,8 @@
 
 ## 🚀 Skills & Tools  
 
-```latex
-\textbf{Programming Languages:} C, C++, Java, Python, JavaScript  
+- 🔹 **Programming Languages:** C, C++, Java, Python, JavaScript  
 
-\textbf{Core Concepts:} Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks  
+- 🔹 **Core Concepts:** Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks  
 
-\textbf{Web & Tools:} HTML, CSS, React, Node.js, Git, GitHub, VS Code  
+- 🔹 **Web & Tools:** HTML, CSS, React, Node.js, Git, GitHub, VS Code  
