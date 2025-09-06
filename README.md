@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Suraj Kachate  
 
-💻 Software Developer | 🚀 Tech Enthusiast  
+💻 Software Developer | 🚀 Tech Enthusiast | 🎓 Technical Trainer  
 
 ---
 
 ## 🌟 About Me  
-- 🔹 Passionate **Software Developer** with strong foundations in **Computer Science & Data Structures**.  
-- 🔹 Interested in **problem-solving, system design, emerging technologies, and open-source contributions**.  
-- 🔹 Love to share knowledge through **training, presentations, and mentorship**.  
+
+- 🔹 Passionate **Software Developer** with strong foundations in **Computer Science & Data Structures**  
+- 🔹 Experienced **Technical Trainer** in **MERN Stack, AI/ML, Cloud Computing, and Data Science**  
+- 🔹 Interested in **problem-solving, system design, open-source contributions, and emerging technologies**  
+- 🔹 Love to share knowledge through **training, presentations, and mentorship**  
 
 ---
 
@@ -29,23 +31,9 @@
 
 ## 🚀 Skills & Tools  
 
-**Programming Languages:**  
-`C` `C++` `Java` `Python` `JavaScript`  
+```latex
+\textbf{Programming Languages:} C, C++, Java, Python, JavaScript  
 
-**Core Concepts:**  
-`Data Structures` `Algorithms` `Operating System` `DBMS` `Computer Networks`  
+\textbf{Core Concepts:} Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks  
 
-**Web & Tools:**  
-`HTML` `CSS` `React` `Node.js` `Git` `GitHub` `VS Code`  
-
----
-
-## 📬 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/suraj-kachate)  
-- 🌐 [Portfolio Website](https://www.surajkachate.com)  
-- 📧 [Email Me](mailto:surajkachate@gmail.com)  
-
----
-
-⭐️ From [SurajKachate](https://github.com/surajkachate)  
+\textbf{Web & Tools:} HTML, CSS, React, Node.js, Git, GitHub, VS Code  
