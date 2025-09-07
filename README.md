@@ -31,8 +31,11 @@
 
 ## 🚀 Skills & Tools  
 
-🔹 **Programming Languages:** C, C++, Java, Python, JavaScript  
+🔹 **Programming Languages:** C/C++, Java, Python, JavaScript  
 
-🔹 **Core Concepts:** Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks  
+🔹 **Technologies & Frameworks:** MERN Stack, Next.js, Data Science, Artificial Intelligence & Machine Learning (AI/ML), Computer Vision, AWS Cloud  
 
-🔹 **Web & Tools:** HTML, CSS, React, Node.js, Git, GitHub, VS Code  
+🔹 **Databases & Query Languages:** MySQL, MongoDB, SQL
+
+🔹 **Core Subjects:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN)
+
