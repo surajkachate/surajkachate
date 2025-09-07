@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Suraj Kachate  
 
-💻 Software Developer | 🚀 Tech Enthusiast | 🎓 Technical Trainer  
+💻 Software Engineer | 🚀 Tech Enthusiast | 🎓 Technical Trainer  
 
 ---
 
 ## 🌟 About Me  
 
-- 🔹 Passionate **Software Developer** with strong foundations in **Computer Science & Data Structures**  
-- 🔹 Experienced **Technical Trainer** in **MERN Stack, AI/ML, Cloud Computing, and Data Science**  
-- 🔹 Interested in **problem-solving, system design, open-source contributions, and emerging technologies**  
-- 🔹 Love to share knowledge through **training, presentations, and mentorship**  
+🔹 Passionate **Software Developer** with strong foundations in **Computer Science & Data Structures**  
+🔹 Experienced **Technical Trainer** in **MERN Stack, AI/ML, Cloud Computing, and Data Science**  
+🔹 Interested in **problem-solving, system design, open-source contributions, and emerging technologies**  
+🔹 Love to share knowledge through **training, presentations, and mentorship**  
 
 ---
 
@@ -31,8 +31,8 @@
 
 ## 🚀 Skills & Tools  
 
-- 🔹 **Programming Languages:** C, C++, Java, Python, JavaScript  
+🔹 **Programming Languages:** C, C++, Java, Python, JavaScript  
 
-- 🔹 **Core Concepts:** Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks  
+🔹 **Core Concepts:** Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks  
 
-- 🔹 **Web & Tools:** HTML, CSS, React, Node.js, Git, GitHub, VS Code  
+🔹 **Web & Tools:** HTML, CSS, React, Node.js, Git, GitHub, VS Code  
