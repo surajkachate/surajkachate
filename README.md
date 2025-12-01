@@ -21,10 +21,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=surajkachate&theme=tokyonight&hide_border=true)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajkachate&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkachate&layout=compact&theme=tokyonight)
-
 </div>
 
 ---
