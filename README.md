@@ -17,13 +17,13 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SurajKachate&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=surajkachate&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SurajKachate&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=surajkachate&theme=tokyonight&hide_border=true)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajKachate&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajkachate&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKachate&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkachate&layout=compact&theme=tokyonight)
 
 </div>
 
